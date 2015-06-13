@@ -1,0 +1,5 @@
+.idea*/
+.settings*/
+AppResto/AppResto/obj/Debug*/
+#ignore thumbnails created by windows
+Thumbs.db
